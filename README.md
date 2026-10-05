@@ -13,4 +13,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0856-score-of-parentheses) |
+## Array
+|  |
+| ------- |
+| [0228-summary-ranges](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0228-summary-ranges) |
 <!---LeetCode Topics End-->
