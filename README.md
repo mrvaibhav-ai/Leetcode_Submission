@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0046-permutations) |
 | [0228-summary-ranges](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0228-summary-ranges) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Greedy
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0046-permutations) |
 | [0301-remove-invalid-parentheses](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0301-remove-invalid-parentheses) |
 ## Breadth-First Search
 |  |
