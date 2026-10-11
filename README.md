@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0374-guess-number-higher-or-lower) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Sorting
 |  |
@@ -90,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/2778-sum-of-squares-of-special-elements) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
