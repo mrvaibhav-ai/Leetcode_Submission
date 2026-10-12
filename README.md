@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0171-excel-sheet-column-number) |
 | [0301-remove-invalid-parentheses](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0301-remove-invalid-parentheses) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0856-score-of-parentheses](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0856-score-of-parentheses) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0171-excel-sheet-column-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0628-maximum-product-of-three-numbers) |
 ## Enumeration
 |  |
