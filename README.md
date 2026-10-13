@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0171-excel-sheet-column-number) |
+| [0257-binary-tree-paths](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0257-binary-tree-paths) |
 | [0301-remove-invalid-parentheses](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0301-remove-invalid-parentheses) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0856-score-of-parentheses](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0856-score-of-parentheses) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0046-permutations) |
+| [0257-binary-tree-paths](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0257-binary-tree-paths) |
 | [0301-remove-invalid-parentheses](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0301-remove-invalid-parentheses) |
 ## Breadth-First Search
 |  |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0257-binary-tree-paths) |
 | [0463-island-perimeter](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0733-flood-fill) |
 ## Matrix
@@ -113,4 +116,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0067-add-binary) |
+## Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0257-binary-tree-paths) |
+## Binary Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
