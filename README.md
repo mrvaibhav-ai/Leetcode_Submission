@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0171-excel-sheet-column-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0628-maximum-product-of-three-numbers) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Enumeration
 |  |
 | ------- |
