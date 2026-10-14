@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0301-remove-invalid-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0434-number-of-segments-in-a-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0856-score-of-parentheses](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0856-score-of-parentheses) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0171-excel-sheet-column-number) |
+| [0412-fizz-buzz](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0628-maximum-product-of-three-numbers) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Enumeration
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0412-fizz-buzz) |
 ## Tree
 |  |
 | ------- |
