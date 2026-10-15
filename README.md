@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Greedy
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0748-shortest-completing-word](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0748-shortest-completing-word) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -169,4 +171,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0459-repeated-substring-pattern) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
