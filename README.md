@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0506-relative-ranks) |
+| [0594-longest-harmonious-subsequence](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0645-set-mismatch) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0387-first-unique-character-in-a-string) |
 | [0500-keyboard-row](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0500-keyboard-row) |
+| [0594-longest-harmonious-subsequence](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0645-set-mismatch) |
 | [0748-shortest-completing-word](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0748-shortest-completing-word) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0506-relative-ranks) |
+| [0594-longest-harmonious-subsequence](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0387-first-unique-character-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0594-longest-harmonious-subsequence) |
 ## String Matching
 |  |
 | ------- |
@@ -200,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0594-longest-harmonious-subsequence) |
 <!---LeetCode Topics End-->
