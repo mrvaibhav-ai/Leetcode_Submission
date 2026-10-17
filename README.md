@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0374-guess-number-higher-or-lower) |
 | [0888-fair-candy-swap](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0888-fair-candy-swap) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0374-guess-number-higher-or-lower) |
 ## Bit Manipulation
 |  |
