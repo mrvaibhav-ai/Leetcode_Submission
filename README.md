@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0541-reverse-string-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0680-valid-palindrome-ii](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0696-count-binary-substrings) |
 | [0748-shortest-completing-word](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0748-shortest-completing-word) |
 | [0856-score-of-parentheses](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0696-count-binary-substrings) |
 | [0905-sort-array-by-parity](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0977-squares-of-a-sorted-array) |
