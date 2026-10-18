@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0482-license-key-formatting](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0504-base-7) |
+| [0520-detect-capital](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0520-detect-capital) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0748-shortest-completing-word](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0748-shortest-completing-word) |
 | [0856-score-of-parentheses](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0856-score-of-parentheses) |
