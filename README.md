@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Greedy
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Backtracking
 |  |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0506-relative-ranks) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Math
 |  |
 | ------- |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0412-fizz-buzz) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Tree
 |  |
 | ------- |
@@ -315,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0705-design-hashset](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0706-design-hashmap) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Design
 |  |
 | ------- |
@@ -325,4 +330,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0705-design-hashset](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0706-design-hashmap) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Ordered Set
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
