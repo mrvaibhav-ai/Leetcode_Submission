@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0067-add-binary) |
 | [0645-set-mismatch](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0645-set-mismatch) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1763-longest-nice-substring](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1763-longest-nice-substring) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Simulation
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0594-longest-harmonious-subsequence) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## String Matching
 |  |
 | ------- |
