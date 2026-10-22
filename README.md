@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0145-binary-tree-postorder-traversal) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0682-baseball-game](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0682-baseball-game) |
 | [0856-score-of-parentheses](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1021-remove-outermost-parentheses) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0645-set-mismatch) |
+| [0682-baseball-game](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0682-baseball-game) |
 | [0705-design-hashset](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0706-design-hashmap) |
 | [0733-flood-fill](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0733-flood-fill) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0412-fizz-buzz) |
+| [0682-baseball-game](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0682-baseball-game) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/2073-time-needed-to-buy-tickets) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
