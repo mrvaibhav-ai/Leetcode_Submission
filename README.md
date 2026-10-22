@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0145-binary-tree-postorder-traversal) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0856-score-of-parentheses](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1021-remove-outermost-parentheses) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0563-binary-tree-tilt](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0572-subtree-of-another-tree) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0733-flood-fill) |
 ## Matrix
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0563-binary-tree-tilt](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0572-subtree-of-another-tree) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Tree
