@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0709-to-lower-case) |
 | [0748-shortest-completing-word](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0748-shortest-completing-word) |
+| [0771-jewels-and-stones](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0771-jewels-and-stones) |
 | [0856-score-of-parentheses](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1021-remove-outermost-parentheses) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0706-design-hashmap) |
 | [0748-shortest-completing-word](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0748-shortest-completing-word) |
+| [0771-jewels-and-stones](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0771-jewels-and-stones) |
 | [0888-fair-candy-swap](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0888-fair-candy-swap) |
 | [1122-relative-sort-array](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1331-rank-transform-of-an-array) |
