@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1200-minimum-absolute-difference) |
+| [1254-number-of-closed-islands](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1254-number-of-closed-islands) |
 | [1331-rank-transform-of-an-array](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1254-number-of-closed-islands](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1254-number-of-closed-islands) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -180,12 +182,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0733-flood-fill](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1254-number-of-closed-islands](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1254-number-of-closed-islands) |
 ## Matrix
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0733-flood-fill) |
 | [1030-matrix-cells-in-distance-order](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1030-matrix-cells-in-distance-order) |
+| [1254-number-of-closed-islands](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1254-number-of-closed-islands) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Binary Search
@@ -397,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
