@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0228-summary-ranges) |
 | [0463-island-perimeter](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0485-max-consecutive-ones) |
+| [0495-teemo-attacking](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0495-teemo-attacking) |
 | [0500-keyboard-row](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0506-relative-ranks) |
 | [0566-reshape-the-matrix](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0566-reshape-the-matrix) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0412-fizz-buzz) |
+| [0495-teemo-attacking](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0682-baseball-game) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1700-number-of-students-unable-to-eat-lunch) |
