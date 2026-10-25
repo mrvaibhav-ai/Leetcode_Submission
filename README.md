@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0506-relative-ranks) |
 | [0566-reshape-the-matrix](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0566-reshape-the-matrix) |
+| [0575-distribute-candies](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0628-maximum-product-of-three-numbers) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0387-first-unique-character-in-a-string) |
 | [0500-keyboard-row](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0500-keyboard-row) |
+| [0575-distribute-candies](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0645-set-mismatch) |
