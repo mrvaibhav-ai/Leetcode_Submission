@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0709-to-lower-case) |
 | [0748-shortest-completing-word](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1021-remove-outermost-parentheses) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0459-repeated-substring-pattern) |
 | [0572-subtree-of-another-tree](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0572-subtree-of-another-tree) |
+| [0796-rotate-string](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0796-rotate-string) |
 ## Z Algorithm
 |  |
 | ------- |
