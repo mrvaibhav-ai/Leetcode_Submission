@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0594-longest-harmonious-subsequence) |
 | [0598-range-addition-ii](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0598-range-addition-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0605-can-place-flowers](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0682-baseball-game) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1005-maximize-sum-of-array-after-k-negations) |
