@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Greedy
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Binary Search
 |  |
 | ------- |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1763-longest-nice-substring](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1763-longest-nice-substring) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -420,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Union-Find
 |  |
 | ------- |
