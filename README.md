@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0682-baseball-game) |
 | [0705-design-hashset](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0706-design-hashmap) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0733-flood-fill](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0747-largest-number-at-least-twice-of-others) |
