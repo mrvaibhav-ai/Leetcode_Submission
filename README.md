@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0661-image-smoother) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0682-baseball-game) |
+| [0697-degree-of-an-array](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0706-design-hashmap) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0697-degree-of-an-array](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0706-design-hashmap) |
 | [0748-shortest-completing-word](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0748-shortest-completing-word) |
