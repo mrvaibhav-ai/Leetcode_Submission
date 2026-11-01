@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-short-encoding-of-words](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0820-short-encoding-of-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0821-shortest-distance-to-a-character) |
 | [0860-lemonade-change](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0860-lemonade-change) |
+| [0867-transpose-matrix](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0867-transpose-matrix) |
 | [0888-fair-candy-swap](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0922-sort-array-by-parity-ii) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0661-image-smoother) |
 | [0733-flood-fill](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0766-toeplitz-matrix) |
+| [0867-transpose-matrix](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0867-transpose-matrix) |
 | [1030-matrix-cells-in-distance-order](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1030-matrix-cells-in-distance-order) |
 | [1254-number-of-closed-islands](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1254-number-of-closed-islands) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0682-baseball-game) |
+| [0867-transpose-matrix](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0867-transpose-matrix) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/2073-time-needed-to-buy-tickets) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
