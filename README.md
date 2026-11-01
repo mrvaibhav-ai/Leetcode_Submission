@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0046-permutations) |
 | [0228-summary-ranges](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0228-summary-ranges) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0463-island-perimeter](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0495-teemo-attacking) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0171-excel-sheet-column-number) |
 | [0412-fizz-buzz](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0412-fizz-buzz) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0504-base-7](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0504-base-7) |
 | [0598-range-addition-ii](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0628-maximum-product-of-three-numbers) |
