@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-number-of-lines-to-write-string](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0819-most-common-word) |
 | [0820-short-encoding-of-words](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0820-short-encoding-of-words) |
+| [0821-shortest-distance-to-a-character](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0821-shortest-distance-to-a-character) |
 | [0856-score-of-parentheses](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1021-remove-outermost-parentheses) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-number-of-lines-to-write-string](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0819-most-common-word) |
 | [0820-short-encoding-of-words](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0820-short-encoding-of-words) |
+| [0821-shortest-distance-to-a-character](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0821-shortest-distance-to-a-character) |
 | [0860-lemonade-change](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0860-lemonade-change) |
 | [0888-fair-candy-swap](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0905-sort-array-by-parity) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0696-count-binary-substrings) |
+| [0821-shortest-distance-to-a-character](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0821-shortest-distance-to-a-character) |
 | [0905-sort-array-by-parity](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0977-squares-of-a-sorted-array) |
