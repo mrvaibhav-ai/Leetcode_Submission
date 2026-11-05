@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0922-sort-array-by-parity-ii](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0922-sort-array-by-parity-ii) |
 | [0929-unique-email-addresses](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0929-unique-email-addresses) |
+| [0941-valid-mountain-array](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1030-matrix-cells-in-distance-order](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1030-matrix-cells-in-distance-order) |
