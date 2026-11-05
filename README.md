@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0929-unique-email-addresses](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0929-unique-email-addresses) |
+| [0942-di-string-match](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0942-di-string-match) |
 | [1021-remove-outermost-parentheses](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1763-longest-nice-substring](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1763-longest-nice-substring) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0922-sort-array-by-parity-ii) |
 | [0929-unique-email-addresses](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0929-unique-email-addresses) |
 | [0941-valid-mountain-array](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0941-valid-mountain-array) |
+| [0942-di-string-match](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0942-di-string-match) |
 | [0977-squares-of-a-sorted-array](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1030-matrix-cells-in-distance-order](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1030-matrix-cells-in-distance-order) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0942-di-string-match](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0942-di-string-match) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -411,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0821-shortest-distance-to-a-character) |
 | [0905-sort-array-by-parity](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0922-sort-array-by-parity-ii) |
+| [0942-di-string-match](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0942-di-string-match) |
 | [0977-squares-of-a-sorted-array](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1385-find-the-distance-value-between-two-arrays) |
