@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0819-most-common-word) |
 | [0820-short-encoding-of-words](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0820-short-encoding-of-words) |
 | [0821-shortest-distance-to-a-character](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0821-shortest-distance-to-a-character) |
+| [0824-goat-latin](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0824-goat-latin) |
 | [0856-score-of-parentheses](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0929-unique-email-addresses](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0929-unique-email-addresses) |
