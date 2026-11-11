@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0824-goat-latin](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0824-goat-latin) |
 | [0830-positions-of-large-groups](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0830-positions-of-large-groups) |
 | [0856-score-of-parentheses](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0856-score-of-parentheses) |
+| [0859-buddy-strings](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0859-buddy-strings) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0929-unique-email-addresses](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0929-unique-email-addresses) |
 | [0942-di-string-match](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0942-di-string-match) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0819-most-common-word) |
 | [0820-short-encoding-of-words](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0820-short-encoding-of-words) |
+| [0859-buddy-strings](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0859-buddy-strings) |
 | [0888-fair-candy-swap](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0888-fair-candy-swap) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0929-unique-email-addresses](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0929-unique-email-addresses) |
