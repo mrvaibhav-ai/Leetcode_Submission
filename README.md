@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0917-reverse-only-letters](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0917-reverse-only-letters) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0925-long-pressed-name](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0925-long-pressed-name) |
 | [0929-unique-email-addresses](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0929-unique-email-addresses) |
 | [0942-di-string-match](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0944-delete-columns-to-make-sorted) |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0917-reverse-only-letters) |
 | [0922-sort-array-by-parity-ii](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0922-sort-array-by-parity-ii) |
+| [0925-long-pressed-name](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0925-long-pressed-name) |
 | [0942-di-string-match](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0942-di-string-match) |
 | [0977-squares-of-a-sorted-array](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1346-check-if-n-and-its-double-exist) |
