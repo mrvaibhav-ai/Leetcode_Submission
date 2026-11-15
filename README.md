@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0989-add-to-array-form-of-integer](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0989-add-to-array-form-of-integer) |
 | [1030-matrix-cells-in-distance-order](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1030-matrix-cells-in-distance-order) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -545,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3665-twisted-mirror-path-count](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -658,5 +661,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
