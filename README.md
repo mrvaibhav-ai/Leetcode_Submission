@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0989-add-to-array-form-of-integer) |
 | [0997-find-the-town-judge](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0997-find-the-town-judge) |
+| [0999-available-captures-for-rook](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0999-available-captures-for-rook) |
 | [1002-find-common-characters](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1002-find-common-characters) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1030-matrix-cells-in-distance-order](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1030-matrix-cells-in-distance-order) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0867-transpose-matrix) |
 | [0883-projection-area-of-3d-shapes](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0892-surface-area-of-3d-shapes) |
+| [0999-available-captures-for-rook](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0999-available-captures-for-rook) |
 | [1030-matrix-cells-in-distance-order](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1030-matrix-cells-in-distance-order) |
 | [1254-number-of-closed-islands](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1267-count-servers-that-communicate) |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0867-transpose-matrix) |
+| [0999-available-captures-for-rook](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0999-available-captures-for-rook) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/2073-time-needed-to-buy-tickets) |
