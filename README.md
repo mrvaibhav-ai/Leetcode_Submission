@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0942-di-string-match](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0942-di-string-match) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/2567-minimum-score-by-changing-two-elements) |
