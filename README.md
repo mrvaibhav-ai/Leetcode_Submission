@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1763-longest-nice-substring](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1763-longest-nice-substring) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/2409-count-days-spent-together) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
