@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1154-day-of-the-year](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1154-day-of-the-year) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1763-longest-nice-substring](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1763-longest-nice-substring) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/2124-check-if-all-as-appears-before-all-bs) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1030-matrix-cells-in-distance-order](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1030-matrix-cells-in-distance-order) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1137-n-th-tribonacci-number) |
+| [1154-day-of-the-year](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1154-day-of-the-year) |
 | [1352-product-of-the-last-k-numbers](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
