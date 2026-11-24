@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/2409-count-days-spent-together) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/3789-minimum-cost-to-acquire-required-items) |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3886-sum-of-sortable-integers](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/3886-sum-of-sortable-integers) |
 ## Interactive
 |  |
@@ -553,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1763-longest-nice-substring](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1763-longest-nice-substring) |
 | [2747-count-zero-request-servers](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/2747-count-zero-request-servers) |
 | [3364-minimum-positive-sum-subarray](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Geometry
 |  |
@@ -673,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Euclidean Algorithm
 |  |
 | ------- |
