@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1154-day-of-the-year](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1154-day-of-the-year) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1763-longest-nice-substring](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1763-longest-nice-substring) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/2124-check-if-all-as-appears-before-all-bs) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1030-matrix-cells-in-distance-order](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1030-matrix-cells-in-distance-order) |
 | [1051-height-checker](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1122-relative-sort-array) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1200-minimum-absolute-difference](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1200-minimum-absolute-difference) |
 | [1254-number-of-closed-islands](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1267-count-servers-that-communicate) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0997-find-the-town-judge) |
 | [1002-find-common-characters](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1002-find-common-characters) |
 | [1122-relative-sort-array](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1122-relative-sort-array) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1331-rank-transform-of-an-array](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -519,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1267-count-servers-that-communicate](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1267-count-servers-that-communicate) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/mrvaibhav-ai/Leetcode_Submission/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## String Matching
